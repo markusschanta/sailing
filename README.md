@@ -19,6 +19,14 @@ This repository contains my sailing GPS data as well as the setup for the [Gatsb
     ```shell
     npm run develop
     ```
+    
+1.  **Update the Observable notebook package:**
+
+    To update the Observable notebook package, run:
+
+    ```shell
+    npm install @markusschanta/sailing-link
+    ```
 
 1.  **Deploy to GitHub Pages:**
 
