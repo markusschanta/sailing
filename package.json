@@ -6,6 +6,7 @@
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
     "@markusschanta/sailing-link": "https://api.observablehq.com/@markusschanta/sailing-link.tgz?v=3",
+    "@markusschanta/sailing-lazy": "https://api.observablehq.com/@markusschanta/sailing-lazy.tgz?v=3",
     "@observablehq/runtime": "^4.8.0",
     "gatsby": "^2.26.1",
     "gatsby-image": "^2.5.0",
