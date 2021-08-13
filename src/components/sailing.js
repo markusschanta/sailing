@@ -1,6 +1,6 @@
 import React, {useRef, useEffect} from "react";
 import {Runtime, Inspector} from "@observablehq/runtime";
-import notebook from "@markusschanta/sailing-link";
+import notebook from "@markusschanta/sailing-lazy";
 
 function SailingLink() {
   const ref = useRef();
